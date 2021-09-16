@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+//right click on class -create test
+//when working with a maven project j-unit.platform, j-unit.jupiter dependencies need to be added to the pom file to run tests
+
+
+//right clivk class- select create new test, give it a class name, finish, test path created,
+//use @Test Annotation
